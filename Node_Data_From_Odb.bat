@@ -1,0 +1,1 @@
+abaqus cae noGUI=Node_Data_From_Odb.py
